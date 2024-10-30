@@ -1,4 +1,4 @@
-<!-- Kinesis's ReadMe -->
+<!-- kgh2005's ReadMe -->
 ![header](https://github.com/kinesis19/kinesis19/assets/90908098/fe753219-32f4-4c6a-8941-eecb351340fe)
 
 ## 🤖 Robotics Engineering Student
