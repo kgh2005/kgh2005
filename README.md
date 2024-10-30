@@ -1,8 +1,7 @@
 <!-- kgh2005's ReadMe -->
-![header](https://github.com/kinesis19/kinesis19/assets/90908098/fe753219-32f4-4c6a-8941-eecb351340fe)
 
 ## 🤖 Robotics Engineering Student
-Hey, I'm Kinesis!
+Hey, I'm kgh2005!
 
 I've been working on a variety of projects, including game, app, and web development, as well as robotics. My dream is to create an Android like 'Nano' from the webtoon Nano List. I also aspire to develop rescue robots that can save lives on the battlefield.
 
