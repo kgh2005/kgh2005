@@ -1,17 +1,12 @@
 <!-- kgh2005's ReadMe -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=68&descAlign=72.8)
 
-## 🤖 Robotics Engineering Student
-Hey, I'm kgh2005!
-
-I've been working on a variety of projects, including game, app, and web development, as well as robotics. My dream is to create an Android like 'Nano' from the webtoon Nano List. I also aspire to develop rescue robots that can save lives on the battlefield.
-
 ## 💻 Tech Stacks
 Technology used in projects more than three times.<br/>
 I didn't master the language and tools, but I can use it when I need it.
 
 ### Programming & Tech Stack
-[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,cs,js,py,java,html,css,md,visualstudio,vscode,idea,pycharm,qt,eclipse,sublime,androidstudio,threejs&perline=9&theme=light)](https://skillicons.dev)
+[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,cs,js,py,html,css,md,visualstudio,vscode,idea,pycharm,qt,eclipse,sublime,androidstudio,threejs&perline=9&theme=light)](https://skillicons.dev)
 
 ### Version Control & Deployment
 [![Version Control & Deployment](https://skillicons.dev/icons?i=git,github,netlify,ubuntu&perline=10&theme=light)](https://skillicons.dev)
