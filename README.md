@@ -19,10 +19,9 @@ I didn't master the language and tools, but I can use it when I need it.
 [![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion,replit&perline=10&theme=light)](https://skillicons.dev)
 
 ## 🏆 My Achievements
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
-<a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
+<a href="https://opgc.me/#/users/kgh2005" target="_blank"><img src="https://api.opgc.me/githubs/users/kgh2005/tag/?theme=prism" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinesis19&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kgh2005&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📞 Contact Me
