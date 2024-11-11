@@ -24,8 +24,3 @@ I didn't master the language and tools, but I can use it when I need it.
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgh2005&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!--## 📞 Contact Me
-[<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github&theme=light"/>](https://github.com/kinesis19)
-[<img height="48px" width="48px" alt="Icone Instagram" src="https://skillicons.dev/icons?i=instagram&theme=light"/>](https://www.instagram.com/creator_kinesis/)
-[<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>](https://www.linkedin.com/in/kinesis19/)
-[<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=discord&theme=light"/>](https://github.com/kinesis19/kinesis19/tree/main/Docs/Discord_Add)-->
