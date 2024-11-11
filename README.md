@@ -1,5 +1,5 @@
 <!-- kgh2005's ReadMe -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=70&descAlign=72.8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=68&descAlign=72.8)
 
 ## 🤖 Robotics Engineering Student
 Hey, I'm kgh2005!
