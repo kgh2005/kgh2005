@@ -11,7 +11,7 @@ Technology used in projects more than three times.<br/>
 I didn't master the language and tools, but I can use it when I need it.
 
 ### Programming & Tech Stack
-[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,py,html,css,visualstudio,vscode,idea,pycharm,qt,aws,ros,opencv&perline=9&theme=light)](https://skillicons.dev)
+[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,py,html,css,visualstudio,vscode,pycharm,qt,aws,ros,opencv&perline=9&theme=light)](https://skillicons.dev)
 
 ### Version Control & Deployment
 [![Version Control & Deployment](https://skillicons.dev/icons?i=git,github,ubuntu,windows,apple&perline=10&theme=light)](https://skillicons.dev)
