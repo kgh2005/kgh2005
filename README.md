@@ -1,6 +1,13 @@
 <!-- kgh2005's ReadMe -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=68&descAlign=72.8)
 
+<div align="center" style="margin-bottom:200px">
+    <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=RuthGyeul&theme=radical&show_icons=true" />
+    <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthGyeul&layout=compact&theme=radical" />
+    <!--img height=150px align="center" src="https://banner.codetree.ai/v1/banner/ruthgyeul" /-->
+    <img height=150px align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ruthgyeul" />
+</div>
+
 ## 💻 Tech Stacks
 Technology used in projects more than three times.<br/>
 I didn't master the language and tools, but I can use it when I need it.
