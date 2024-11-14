@@ -29,3 +29,4 @@ I didn't master the language and tools, but I can use it when I need it.
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgh2005&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
