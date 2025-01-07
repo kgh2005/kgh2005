@@ -1,6 +1,18 @@
 <!-- kgh2005's ReadMe -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=68&descAlign=72.8)
 
+### 📖 Education
+<!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
+> 🏫 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2024.3 ~ )
+
+### 🌱 Team
+> 💨 RO:BIT 19th Humanoid Robot Team <a href="[https://github.com/ROBIT-KOR-teamHumanoid](https://github.com/ROBIT-KOR-teamHumanoid)"><img src="https://img.shields.io/badge/Team RO:BIT_Humanoid-white?style=flat&logo=windowsterminal&logoColor=red"/></a> (2025.1 ~ )
+
+### 💭 I'm Interested in   
+> 🔎 **Deep Learning**<br>
+> 🔎 **Computer Vision**<br>
+> 🔎 **Localization**<br>
+
 <div align="center" style="margin-bottom:200px">
     <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=kgh2005&theme=radical&show_icons=true" />
     <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgh2005&layout=compact&theme=radical" />
