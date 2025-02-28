@@ -13,27 +13,19 @@
 > 🔎 **Computer Vision**<br>
 > 🔎 **Localization**<br>
 
+## 💻 Tech Stacks
+## 🛠 Tech Stack
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 <div align="center" style="margin-bottom:200px">
     <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=kgh2005&theme=radical&show_icons=true" />
     <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgh2005&layout=compact&theme=radical" />
 </div>
-
-## 💻 Tech Stacks
-Technology used in projects more than three times.<br/>
-I didn't master the language and tools, but I can use it when I need it.
-
-### Programming & Tech Stack
-[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,py,html,css,visualstudio,vscode,pycharm,qt,aws,ros,opencv&perline=9&theme=light)](https://skillicons.dev)
-
-### Version Control & Deployment
-[![Version Control & Deployment](https://skillicons.dev/icons?i=git,github,ubuntu,windows,apple&perline=10&theme=light)](https://skillicons.dev)
-
-### Hardware & Embedded Systems
-[![Hardware & Embedded Systems](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=12&theme=light)](https://skillicons.dev)
-
-
-### Design & Collaboration Tools
-[![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion,replit&perline=10&theme=light)](https://skillicons.dev)
 
 ## 🏆 My Achievements
 
