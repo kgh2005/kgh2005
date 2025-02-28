@@ -13,7 +13,6 @@
 > 🔎 **Computer Vision**<br>
 > 🔎 **Localization**<br>
 
-## 💻 Tech Stacks
 ## 🛠 Tech Stack
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -21,6 +20,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
 
 <div align="center" style="margin-bottom:200px">
     <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=kgh2005&theme=radical&show_icons=true" />
