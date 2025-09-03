@@ -12,6 +12,8 @@
 > 🔎 **Deep Learning**<br>
 > 🔎 **Computer Vision**<br>
 > 🔎 **Localization**<br>
+> 🔎 **SLAM(Simultaneous Localization and Mapping)**<br>
+> 🔎 **Navigation**<br>
 
 ## 🛠 Tech Stack
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
