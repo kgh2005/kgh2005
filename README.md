@@ -1,41 +1,80 @@
-<!-- kgh2005's ReadMe -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=KimGeunHyeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=68&descAlign=72.8)
+<div align="center">
 
-### 📖 Education
-<!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
-> 🏫 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2024.3 ~ )
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:1E1B4B,70:4338CA,100:7C3AED&height=220&section=header&text=Geunhyeong%20Kim&fontSize=54&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=Humanoid%20Robotics%20%C2%B7%20Localization%20%C2%B7%20Navigation&descAlignY=59&descSize=18"/>
 
-### 🌱 Team
-> 💨 RO:BIT 19th Humanoid Robot Team <a href="[https://github.com/ROBIT-KOR-teamHumanoid](https://github.com/ROBIT-KOR-teamHumanoid)"><img src="https://img.shields.io/badge/Team RO:BIT_Humanoid-white?style=flat&logo=windowsterminal&logoColor=red"/></a> (2025.1 ~ )
+<br/>
 
-### 💭 I'm Interested in   
-> 🔎 **Deep Learning**<br>
-> 🔎 **Computer Vision**<br>
-> 🔎 **Localization**<br>
-> 🔎 **SLAM(Simultaneous Localization and Mapping)**<br>
-> 🔎 **Navigation**<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=21&duration=2800&pause=1100&color=A5B4FC&center=true&vCenter=true&width=680&height=45&lines=Humanoid+Robotics;Perception+%E2%86%92+Localization+%E2%86%92+Navigation;Building+autonomous+robots.)](https://git.io/typing-svg)
 
-## 🛠 Tech Stack
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<br/>
 
+✦ ───────────────────── ✦
 
-
-
-<div align="center" style="margin-bottom:200px">
-    <img height=150px align="center" src="https://github-readme-stats.vercel.app/api?username=kgh2005&theme=radical&show_icons=true" />
-    <img height=150px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgh2005&layout=compact&theme=radical" />
 </div>
 
-## 🏆 My Achievements
+## 🛰️ About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kgh2005&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+```text
+UNIVERSITY   Kwangwoon University
+MAJOR        Robotics
+TEAM         RO:BIT Humanoid Robot Team
+FOCUS        Localization · Navigation · Perception
+```
 
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
+> **Building autonomous humanoid robots that perceive, localize, navigate, and act.**
+
+</div>
+
+<br/>
+
+## 🧭 Research Interests
+
+<div align="center">
+
+`Humanoid Robotics` &nbsp; · &nbsp;
+`Localization` &nbsp; · &nbsp;
+`Navigation` &nbsp; · &nbsp;
+`Computer Vision`
+
+<br/><br/>
+
+**Perception** → **Localization** → **Navigation** → **Action**
+
+</div>
+
+<br/>
+
+## ⚙️ Toolkit
+
+<div align="center">
+
+![ROS2](https://img.shields.io/badge/ROS%202-312E81?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3730A3?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4338CA?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-6366F1?style=for-the-badge&logo=opencv&logoColor=white)
+
+![MuJoCo](https://img.shields.io/badge/MuJoCo-312E81?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-3730A3?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-4338CA?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4F46E5?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kgh2005&bg_color=00000000&color=A5B4FC&line=6366F1&point=C4B5FD&area=true&hide_border=true"/>
+
+<br/>
+
+✦ `localize first. move with confidence.` ✦
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:312E81,100:0B1020&height=95&section=footer"/>
+
+</div>
