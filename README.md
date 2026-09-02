@@ -65,7 +65,7 @@ FOCUS        Localization · Navigation · Perception
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kgh2005&bg_color=0D1117&color=94A3B8&title_color=67E8F9&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true&radius=12"/>
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgh2005&theme=github_dark"/>
 
 <br/><br/>
 
