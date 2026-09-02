@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=21&duration=2800&pause=1100&color=67E8F9&center=true&vCenter=true&width=680&height=45&lines=Humanoid+Robotics;Localization+%2F+Navigation;Perception+%E2%86%92+Localization+%E2%86%92+Action)](https://git.io/typing-svg)
 
-<br/>
-
 </div>
+
+<br/>
 
 ## 🛰️ About Me
 
@@ -31,7 +31,10 @@ FOCUS        Localization · Navigation · Perception
 
 <div align="center">
 
-`Humanoid Robotics` · `Localization` · `Navigation` · `Computer Vision`
+`Humanoid Robotics` &nbsp; · &nbsp;
+`Localization` &nbsp; · &nbsp;
+`Navigation` &nbsp; · &nbsp;
+`Computer Vision`
 
 <br/><br/>
 
@@ -61,17 +64,15 @@ FOCUS        Localization · Navigation · Perception
 
 <br/>
 
-## 📡 Activity
+---
+
+<br/>
 
 <div align="center">
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgh2005&theme=github_dark"/>
+### `PERCEPTION` → `LOCALIZATION` → `NAVIGATION` → `ACTION`
 
-<br/><br/>
-
-`PERCEPTION` → `LOCALIZATION` → `NAVIGATION` → `ACTION`
-
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:0F172A,100:020617&height=90&section=footer"/>
 
